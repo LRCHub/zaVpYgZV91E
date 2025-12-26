@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Assassin",
+  "base_artist": "ralph",
+  "createdAt": "2025-12-26T03:42:55.505447Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Assassin",
+      "artist": "Muse",
+      "has_synced": true,
+      "path": "select/01_Assassin_Muse.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pale Movie (Secret Knowledge Trouser Assassin mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/02_Pale_Movie_(Secret_Knowledge_Trouser_Assassin_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kinski Assassin",
+      "artist": "Ariel Pink's Haunted Graffiti",
+      "has_synced": true,
+      "path": "select/03_Kinski_Assassin_Ariel_Pink's_Haunted_Graffiti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "#1 Assassin",
+      "artist": "B.O.N.E. Enterpri$e",
+      "has_synced": true,
+      "path": "select/04_1_Assassin_B.O.N.E._Enterpri$e.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "#1 Assassin",
+      "artist": "B.O.N.E. Enterprise",
+      "has_synced": true,
+      "path": "select/05_1_Assassin_B.O.N.E._Enterprise.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I, Assassin",
+      "artist": "Gary Numan",
+      "has_synced": true,
+      "path": "select/06_I,_Assassin_Gary_Numan.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Sanity Assassin",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/07_The_Sanity_Assassin_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Sanity Assassin",
+      "artist": "Bauhaus",
+      "has_synced": true,
+      "path": "select/08_The_Sanity_Assassin_Bauhaus.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Assassin",
+      "artist": "Venom",
+      "has_synced": true,
+      "path": "select/09_Assassin_Venom.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stay True (ft. 60 Second Assassin)",
+      "artist": "Ghostface Killah",
+      "has_synced": false,
+      "path": "select/10_Stay_True_(ft._60_Second_Assassin)_Ghostface_Killah.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Assassin",
+      "artist": "Motörhead",
+      "has_synced": true,
+      "path": "select/11_Assassin_Motörhead.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Assassin",
+      "artist": "Iron Maiden",
+      "has_synced": true,
+      "path": "select/12_The_Assassin_Iron_Maiden.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Cyanide Assassin",
+      "artist": "Cannibal Corpse",
+      "has_synced": true,
+      "path": "select/13_Cyanide_Assassin_Cannibal_Corpse.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Pride Assassin",
+      "artist": "Napalm Death",
+      "has_synced": true,
+      "path": "select/14_Pride_Assassin_Napalm_Death.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Assassin",
+      "artist": "ralph",
+      "has_synced": false,
+      "path": "select/pl_01_Assassin_ralph.txt"
+    }
+  ]
+}
