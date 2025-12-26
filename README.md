@@ -1,0 +1,99 @@
+# ralph – Assassin
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+緑巻いたら
+赤い目の前
+白い輪っかと
+黒い会話通過
+必要ないなライター
+火がついたアンプから
+煙が充満
+Stack するYEN
+Pound にdollar
+見た目は貧乏 まるでパジャマ
+スーツは着ない夢見てるから
+いくら叶っても足りないバカ
+Hustle
+地に足ついても
+Concrete jungleでは気を抜いたらカモ
+流されない意志はヘビー級
+俺らStoner  元ガキダイショウ
+Fameに群がる Snakes上等
+俺は隠れないダンボール
+待たせたな bitches
+出だしならビリ
+奪い取る1位
+プライドと意地
+当たり前 busy
+フライトは2時
+まぁ楽勝 killin
+いつも通りにflow
+書かない調書と契約書
+柄が悪くても働き者
+I'm baller like a kayzabro
+エリアは045
+Gunfingers UP
+BitchはChatting 狙う麻神shit
+Aim for the TOP
+暴れる正確無比のRap machine
+045から文字通り
+全国を揺らす仕事人
+お遊びに飽きたらcall me
+ハマの麻神 blackの帯
+Show me your one
+Show me your two
+Trigger finger tut tut tut tun
+狙いはTOPPER TOP
+狙いはTOPPER TOP
+Show me your one
+Show me your two
+Trigger finger  tut tut tut tun
+狙いはTOPPER TOP
+狙いはTOPPER TOP
+ルーズなpantsがfitでも
+吐き出すラップはtightが良いっしょ
+あのゴールドディガーのbitchは
+クロムのチェーンには気付かないっぽい
+残念賞policeと一緒
+My jeanzの隠しポケット
+ミーハーはゲトれない一生
+流行りとかじゃないタフなmaterial
+No ice
+Killするバイアス
+媚びない分スキル磨いた
+925 ナイフみたいだな
+尖ってるのは エイリじゃないから
+パクられても大丈夫
+俺は一点物だし最高級
+保証するトビ 賞金首
+I told you
+無理を覆して上げる狼煙と報酬
+あの頃からブレない照準
+NO FLEX MAN 覗くスコープ
+着てる服より中身が高級
+まぐれじゃないこれ実力
+まだ働く貧乏
+My sonはきっとなるボンボン
+纏ったハマの香りとSmokeで
+路上から狙うTOPのTOP
+Gunfingers UP
+BitchはChatting 狙う麻神shit
+Aim for the TOP
+暴れる正確無比のRap machine
+045から文字通り
+全国を揺らす仕事人
+お遊びに飽きたらcall me
+ハマの麻神 blackの帯
+Show me your one
+Show me your two
+Trigger finger  tut tut tut tun
+狙いはTOPPER TOP
+狙いはTOPPER TOP
+Show me your one
+Show me your two
+Trigger finger  tut tut tut tun
+狙いはTOPPER TOP
+狙いはTOPPER TOP
+```
